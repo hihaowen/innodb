@@ -8,12 +8,6 @@
 ## 加锁实例
 	1. 快照读
 
-	dog | bird | cat
-	----|------|----
-	foo | foo  | foo
-	bar | bar  | bar
-	baz | baz  | baz
-
 	2. 当前读
 
 	- 有这么一张表,表结构如下
