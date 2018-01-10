@@ -1,2 +1,4 @@
-#useless tmp dir
-tmp
+#ide file 
+.DS_Store
+.idea
+.swp
